@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  web development
 - 👯 I’m looking to collaborate on javascript developers
 - 📫 How to reach me jamal.psw@gmail.com
-- 🌐 Reach my blog https://tripletwinsco.medium.com/
+- 🌐 Reach my blog https://tripletwinsco.medium.com/ or https://elmutaallim.my.id/
