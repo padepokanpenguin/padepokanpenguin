@@ -11,4 +11,3 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/zaulsr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=padepokanpenguin&repo=padepokanpenguin)](https://github.com/anuraghazra/github-readme-stats)
