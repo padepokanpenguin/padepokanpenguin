@@ -10,4 +10,4 @@
 - 🌐 Reach my blog https://tripletwinsco.medium.com/ or https://elmutaallim.my.id/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/zaulsr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/padepokanpenguin)
