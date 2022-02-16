@@ -9,5 +9,5 @@
 - 📫 How to reach me jamal.psw@gmail.com
 - 🌐 Reach my blog https://tripletwinsco.medium.com/ or https://elmutaallim.my.id/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=dark&layout=compact)](https://github.com/zaulsr)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/zaulsr)
