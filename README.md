@@ -12,6 +12,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&count_private=true&disable_animations=false&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/padepokanpenguin)
 
+## My coding stats
 
 <!--START_SECTION:waka-->
 
