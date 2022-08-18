@@ -12,4 +12,13 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&count_private=true&disable_animations=false&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/padepokanpenguin)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+- uses: Platane/snk@v2
+  with:
+    
+    github_user_name: padepokanpenguin
+
+   
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
