@@ -13,5 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padepokanpenguin&theme=default&layout=compact)](https://github.com/padepokanpenguin)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=padepokanpenguin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## The snake eating my contributions
 ![snake gif](https://github.com/padepokanpenguin/padepokanpenguin/blob/output/github-contribution-grid-snake.gif)
