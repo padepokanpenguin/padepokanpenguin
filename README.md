@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 20 August 2022
+From: 16 August 2022 - To: 21 August 2022
 
-Total Time: 12 hrs 31 mins
+Total Time: 15 hrs 41 mins
 
-TypeScript   11 hrs 39 mins  ███████████████████████▒░   93.14 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript   12 hrs 49 mins  ████████████████████▒░░░░   81.76 %
+Other        1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 
 <!--END_SECTION:waka-->
