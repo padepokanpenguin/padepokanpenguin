@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on javascript developers
 - 📫 How to reach me jamal.psw@gmail.com
 - 🌐 Reach my blog:
-   https://tripletwinsco.medium.com/
+   https://tripletwinsco.medium.com/ and
    https://rumahpenguin.id
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=padepokanpenguin&count_private=true&disable_animations=false&show_icons=true&theme=default)
