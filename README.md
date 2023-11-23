@@ -33,5 +33,3 @@ JSON             20 hrs 34 mins  ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## The snake eating my contributions
-![snake gif](https://github.com/padepokanpenguin/padepokanpenguin/blob/output/github-contribution-grid-snake.gif)
