@@ -19,15 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2022 - To: 18 May 2024
+From: 16 August 2022 - To: 19 May 2024
 
-Total Time: 1,505 hrs 43 mins
+Total Time: 1,508 hrs 27 mins
 
-TypeScript                1,098 hrs 59 mins██████████████████▒░░░░░░   72.99 %
-JavaScript                172 hrs 31 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
-JSON                      49 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash                      35 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-CSS                       27 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript                1,101 hrs       ██████████████████▒░░░░░░   72.99 %
+JavaScript                172 hrs 31 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+JSON                      50 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Bash                      35 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+CSS                       27 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
