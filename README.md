@@ -19,12 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2022 - To: 07 June 2025
+From: 16 August 2022 - To: 08 June 2025
 
-Total Time: 2,755 hrs 17 mins
+Total Time: 2,757 hrs
 
-TypeScript                         1,832 hrs 10 mins████████████████▓░░░░░░░░   66.50 %
-C#                                 343 hrs 12 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+TypeScript                         1,832 hrs 10 mins████████████████▓░░░░░░░░   66.46 %
+C#                                 344 hrs 55 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
 JavaScript                         183 hrs 46 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 JSON                               80 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 HTML                               71 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
