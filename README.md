@@ -32,4 +32,8 @@ HTML                               74 hrs 59 mins  ▓░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## Watch my contribution graph get eaten by a snake 🐍
+
+![snake gif](https://raw.githubusercontent.com/padepokanpenguin/padepokanpenguin/output/github-contribution-grid-snake.svg)
+
 
