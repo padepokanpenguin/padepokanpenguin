@@ -21,10 +21,10 @@
 ```txt
 From: 16 August 2022 - To: 23 July 2026
 
-Total Time: 4,195 hrs 17 mins
+Total Time: 4,196 hrs 51 mins
 
-TypeScript                         2,386 hrs 46 mins     ██████████████▒░░░░░░░░░░   56.89 %
-C#                                 937 hrs 45 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+TypeScript                         2,387 hrs 32 mins     ██████████████▒░░░░░░░░░░   56.89 %
+C#                                 938 hrs 16 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
 JavaScript                         277 hrs 55 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 JSON                               115 hrs 1 min         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 Other                              85 hrs 47 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
